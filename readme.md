@@ -8,3 +8,6 @@ To use it one needs python installed in the system, and correct script to launch
 Then it is as simpe as to type _gcp_ , paste the repo link and hit Enter
 
 The name came from Git Clone (with) Python
+
+Tested with Win10 and python 3.10 . 
+Feel free to copy / modify as you wish.
