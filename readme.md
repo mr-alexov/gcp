@@ -6,3 +6,5 @@ Just in case if it is more convenient for you to have a name of a user you clone
 To use it one needs python installed in the system, and correct script to launch _python gcp.py_ with the folder name in path -- the example provided as gcp.bat
 
 Then it is as simpe as to type _gcp_ , paste the repo link and hit Enter
+
+The name came from Git Clone (with) Python
