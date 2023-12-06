@@ -1,0 +1,1 @@
+python C:\Utils\Scripts\gcp.py %1
