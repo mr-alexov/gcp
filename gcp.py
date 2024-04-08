@@ -33,7 +33,7 @@ def repo_string(repo_url_str: str) -> str:
 
 
 def compose_command_line_string(repo_url_str: str) -> str:
-    command_line_str = ' '.join(['git clone', "", folder_string(repo_url_str)])
+    command_line_str = ' '.join(['git clone', repo_string(repo_url_str), folder_string(repo_url_str)])
     return command_line_str
 
 
